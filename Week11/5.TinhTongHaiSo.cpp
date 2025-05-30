@@ -1,5 +1,5 @@
 // [Get Sum Of Two]
-template <class T>
+template <typename T>
 T getSum(T a, T b) {
     return a + b;
 }
